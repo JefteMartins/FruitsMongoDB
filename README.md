@@ -1,4 +1,4 @@
-# MAnipulaçao de bando de dados com express
+# Manipulaçao de bando de dados com express
 
 ## Foi usado Expresss e Mongoose
 
